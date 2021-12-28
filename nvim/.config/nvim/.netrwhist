@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/robin/.dotfiles/scripts'
+let g:netrw_dirhist_8='/home/robin/.dotfiles'
+let g:netrw_dirhist_7='/home/robin/.dotfiles/scripts/nodes-shutdown'
+let g:netrw_dirhist_6='/home/robin/.dotfiles/scripts'
+let g:netrw_dirhist_5='/home/robin/.config'
+let g:netrw_dirhist_4='/home/robin/.dotfiles'
+let g:netrw_dirhist_3='/home/robin/logs'
+let g:netrw_dirhist_2='/home/robin/.dotfiles/nvim/.config/nvim'
+let g:netrw_dirhist_1='/home/robin/.dotfiles/nvim/.config'
+let g:netrw_dirhist_0='/home/robin/.dotfiles/nvim'
